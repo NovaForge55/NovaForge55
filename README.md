@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width='120px' />
+  <img src="NovaForgeLogoNoBG.png" width='120px' />
 </p>
 
 <h1 align="center">🚀 Welcome to <span style="color:#f97316">NovaForge</span></h1>
